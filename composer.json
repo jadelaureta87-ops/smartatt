@@ -1,0 +1,12 @@
+{
+    "require": {
+        "capcom6/android-sms-gateway": "^2.5",
+        "guzzlehttp/guzzle": "^8.0",
+        "chillerlan/php-qrcode": "^5.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}

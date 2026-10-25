@@ -1,0 +1,5 @@
+vendor/
+.env
+*.log
+*.bak
+sms_config.backup.txt
